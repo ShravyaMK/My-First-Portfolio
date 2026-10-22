@@ -1,6 +1,7 @@
 # Implementation Documentation: Shravya M K Portfolio Website
 
 **Target URL / Project Location**: `C:\Users\SHRAVYA\.gemini\antigravity\scratch\portfolio`  
+**GitHub Repository**: `https://github.com/ShravyaMK/My-First-Portfolio.git`  
 **Author**: Senior Frontend Developer, UI/UX Designer & Technical Architect  
 **Profile Source**: `Profile.pdf` (Extracted & 100% Verified)  
 **Status**: Completed & Production Verified  
